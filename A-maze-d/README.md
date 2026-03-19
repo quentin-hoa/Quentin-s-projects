@@ -25,8 +25,8 @@ To successfully complete the maze, the program must follow these strict rules:
 
 ### 1. Compilation
 Use the provided Makefile to compile the project:
-*  -In a treminal "make"
+*  -In a treminal `make`
 ### 2. Execution
 The program reads the maze configuration from the standard input. You must provide a maze file as an argument using a redirection:
-*  -In a terminal "./amazed < [path_to_map_file]"
+*  -In a terminal `./amazed < [path_to_map_file]`
 *  -The program will then output the movements of each robot step-by-step (ex: P1-2 P2-3), ensuring that no two robots occupy the same room at the same time (except for the entry and exit).
