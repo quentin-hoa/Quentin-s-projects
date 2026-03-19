@@ -25,4 +25,3 @@ Use the provided Makefile to compile the project:
 ### 2. Execution
 Launch the shell:
 * In a terminal: `./mysh`
-* You can then type any command, use pipes (ex: `ls | grep .c`), or redirections (ex: `ls > file.txt`).
