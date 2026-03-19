@@ -8,7 +8,7 @@
 INCLUDE_PATH = ./include/
 CFLAGS = -I$(INCLUDE_PATH) -g -Wall
 NAME = libmy.a
-EXE = setting_up
+EXE = bsq
 COMMIT ?=
 
 SRC	= main.c \
