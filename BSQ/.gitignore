@@ -1,0 +1,11 @@
+
+*~
+*.out
+*.o
+*#
+*.log
+*.gcda
+*.gcno
+*.a
+*.vs
+example_files

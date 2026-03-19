@@ -1,0 +1,7 @@
+*.a
+*.o
+*.log
+segfault_file
+test_file.rdr
+my_radar
+generator.py
