@@ -1,4 +1,4 @@
-# 🧠 A-maze-d - Maze Solver
+#  A-maze-d - Maze Solver
 
 ## Description
 A-maze-d is a pathfinding project developed at Epitech. The objective is to find the most efficient route for multiple "robots" to traverse a maze from a starting point (entry) to an ending point (exit).
@@ -12,7 +12,7 @@ The project requires parsing a specific file format containing the maze structur
 
 ---
 
-## 🚦 Constraints & Rules
+##  Constraints & Rules
 To successfully complete the maze, the program must follow these strict rules:
 * **One by One:** Robots move room by room.
 * **Single Occupancy:** Each room can contain only **one robot at a time** (to avoid collisions).
